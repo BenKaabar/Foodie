@@ -1,0 +1,15 @@
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color:rgb(255, 165, 0);
+}
+div a{
+    background-color: aliceblue;
+    padding: .4rem 1rem;
+    margin: .2rem .15rem;
+    border-radius: 10rem;
+    font-weight: 600;
+    color: rgb(117, 25, 25);
+}
